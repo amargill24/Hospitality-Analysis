@@ -1,6 +1,6 @@
 # Hospitality-Analysis
 
-The Hospitality Analysis Project leverages the Excel, PowerBI & Tableau to uncover key insights into the performance and trends within the hospitality sector. This comprehensive analysis focuses on critical metrics such as revenue, occupancy, booking behavior, and pricing strategies to provide actionable insights for informed decision-making.
+The Hospitality Analysis Project leverages the Excel, PowerBI, MySQL & Tableau to uncover key insights into the performance and trends within the hospitality sector. This comprehensive analysis focuses on critical metrics such as revenue, occupancy, booking behavior, and pricing strategies to provide actionable insights for informed decision-making.
 
 Project Overview and Objectives:
 Objective:
